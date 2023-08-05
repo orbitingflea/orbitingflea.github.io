@@ -83,10 +83,10 @@ author:
   name             : "Renfei Zhou"
   avatar           : "profile.jpg"
   bio              : "TCS Researcher"
-  location         : "Location"
-  employer         :
+  location         : "Beijing, China"
+  employer         : "Tsinghua University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ILT2Tx8AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
