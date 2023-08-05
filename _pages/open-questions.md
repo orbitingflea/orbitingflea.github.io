@@ -24,7 +24,7 @@ What we know about this problem:
 
 What we do not know:
 
-- **Open Question:** What is the optimal tradeoff when $R \ll n / \textup{poly} \log n$? Is the lower bound tight?
+- **Open Question:** What is the optimal tradeoff when $R \ll n / \text{poly} \log n$? Is the lower bound tight?
 
 Back to the topic of derandomization. As we already know the best tradeoff for randomized succinct dynamic dictionaries for a wide range of parameters, it is natural to ask:
 
