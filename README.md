@@ -2,8 +2,12 @@
 
 This repo is Renfei's personal academic website. Instructions for myself:
 - Add markdown files to `_posts/` to add blog posts.
+  - Remember to leave the first line plain text (not section title), because it will be the abstract of the post that will be displayed in the list-of-posts page.
 - Every markdown file in `_pages/` produces an individual page.
 - `_data/navigation.yml` contains navigation information (the top bar).
+One can use `Prose.io` to edit markdown files online.
+
+Below are contents from the forked template.
 
 ---
 
