@@ -8,6 +8,8 @@ tags:
   - story
 ---
 
+This is a brief introduction to succinct data structures that maintain 1-dimensional arrays, from the first rank/select algorithm to open problems.
+
 ## Pre-Succincter Era
 
 Besides dictionaries, the most basic (and easiest) succinct data structure problems involve maintaining a 1-dim array while supporting a certain type of queries, e.g.,
