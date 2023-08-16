@@ -1,17 +1,16 @@
 ---
 permalink: /
-title: "About Me"
+title: About Me
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
+published: true
 ---
 
 I am a third-year undergraduate student studying theoretical computer science (TCS) in Yao Class, Tsinghua University.
 
 I mainly work on (succinct) data structures and matrix multiplication. I also have a broad interest in other fields of TCS, such as streaming algorithms, game theory, and online algorithms, though I did not have a chance to extensively work on them.
-
-Chinese name: 周任飞
 
 ## Selected Publications
 
@@ -27,3 +26,8 @@ Chinese name: 周任飞
 - **[Faster Matrix Multiplication via Asymmetric Hashing](https://arxiv.org/abs/2210.10173)**  
   Ran Duan, Hongxun Wu, Renfei Zhou  
   To appear in FOCS 2023
+
+## Misc
+
+Chinese name: 周任飞  
+Sports: ping-pong, swimming, cycling (had a trip from Hangzhou to Beijing, 1700km on bike), pool balls
