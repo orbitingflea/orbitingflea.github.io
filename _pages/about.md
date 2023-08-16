@@ -30,4 +30,5 @@ I mainly work on (succinct) data structures and matrix multiplication. I also ha
 ## Misc
 
 Chinese name: 周任飞  
-Sports: ping-pong, swimming, cycling (had a trip from Hangzhou to Beijing, 1700km on bike), pool balls
+Sports: ping-pong, swimming, cycling (had a trip from Hangzhou to Beijing, 1700km on bike), pool balls  
+Erdős number: 4  
