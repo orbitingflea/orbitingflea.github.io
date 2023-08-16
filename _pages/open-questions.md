@@ -1,9 +1,10 @@
 ---
-title: "Open Questions"
+title: Open Questions
 permalink: /open-questions/
+published: true
 ---
 
-Here is a list of (possibly) interesting open questions that I concern.
+Here is a list of (possibly) interesting open questions that I care about.
 
 ## Dynamic Dictionaries
 
