@@ -31,3 +31,12 @@ Back to the topic of derandomization. As we already know the best tradeoff for r
 
 - **Open Question:** Is there a deterministic succinct dynamic dictionary that achieves the same time-space tradeoff as randomized ones?
   - This is the succinct variant of the very important open question of derandomizing (non-succinct) dynamic dictionaries. We believe that succinctness gives extra tool to prove cell-probe lower bounds, thus this might (or might not) be more doable than the initial question.
+
+## 1-Dimensional Dynamic Succinct Data Structures
+
+See [Story of 1-Dimensional Dynamic Succinct Data Structures](https://orbitingflea.github.io/posts/2023/08/1dim-dsds) for backgrounds.
+
+**Open Questions** about applications of Dynamic Succincter:
+- For arithmetic coding with $O(1)$ alphabet and point updates (single-element updates), is there a data structure with $O(n / \text{poly} \log n)$ redundancy and $O(1)$ operation time? If not, what is the best trade-off curve we can achieve?
+  - By the way, we did not study arithmetic coding with large alphabets. This might also be interesting.
+- For rank/select (or other 1D problems) with insertions and deletions allowed, what is the best redundancy achievable when the time is optimal $O(\log n / \log \log n)$? Can we prove any nontrivial lower bound?
