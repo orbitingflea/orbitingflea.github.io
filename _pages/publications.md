@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: Publications
 permalink: /publications/
 author_profile: true
+published: true
 ---
 
 - **[New Bounds for Matrix Multiplication: from Alpha to Omega](https://arxiv.org/abs/2307.07970)**  
@@ -11,7 +12,7 @@ author_profile: true
 - **[Bidder Selection Problem in Position Auctions via Poisson Approximation](https://arxiv.org/abs/2306.10648)**  
   Nick Gravin, Yixuan Even Xu, Renfei Zhou  
   Submitted to SODA 2024
-- **Dynamic "Succincter"**  
+- **[Dynamic "Succincter"](https://arxiv.org/abs/2309.12950)**  
   Tianxiao Li, Jingxun Liang, Huacheng Yu, Renfei Zhou  
   To appear in FOCS 2023
 - **[Faster Matrix Multiplication via Asymmetric Hashing](https://arxiv.org/abs/2210.10173)**  
