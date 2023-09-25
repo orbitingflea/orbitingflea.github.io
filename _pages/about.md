@@ -17,7 +17,7 @@ I mainly work on (succinct) data structures and matrix multiplication. I also ha
 - **[New Bounds for Matrix Multiplication: from Alpha to Omega](https://arxiv.org/abs/2307.07970)**  
   Virginia Vassilevska Williams, Yinzhan Xu, Zixuan Xu, Renfei Zhou  
   Submitted to SODA 2024
-- **Dynamic "Succincter"**  
+- **[Dynamic "Succincter"](https://arxiv.org/abs/2309.12950)**  
   Tianxiao Li, Jingxun Liang, Huacheng Yu, Renfei Zhou  
   To appear in FOCS 2023
 - [**Tight Cell-Probe Lower Bounds for Dynamic Succinct Dictionaries**](https://arxiv.org/abs/2306.02253)  
@@ -31,4 +31,4 @@ I mainly work on (succinct) data structures and matrix multiplication. I also ha
 
 Chinese name: 周任飞  
 Sports: ping-pong, swimming, cycling (had a trip from Hangzhou to Beijing, 1700km on bike), pool balls  
-Erdős number: 4  
+Erdős number: 4
