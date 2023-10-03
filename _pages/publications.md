@@ -23,4 +23,4 @@ published: true
   To appear in FOCS 2023
 - **[On the Perturbation Function of Ranking and Balance for Weighted Online Bipartite Matching](https://arxiv.org/abs/2210.10370)**  
   Jingxun Liang, Zhihao Gavin Tang, Yixuan Even Xu, Yuhao Zhang, Renfei Zhou  
-  To appear in ESA 2023
+  In Proc. ESA 2023
