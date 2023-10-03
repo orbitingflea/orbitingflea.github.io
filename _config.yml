@@ -88,7 +88,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ILT2Tx8AAAAJ"
   email            : "zhourf20@mails.tsinghua.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Renfei-Zhou"
+  researchgate     : # "https://www.researchgate.net/profile/Renfei-Zhou"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,12 +102,12 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/renfei-zhou-467699286"
+  linkedin         : # "https://www.linkedin.com/in/renfei-zhou-467699286"
   orcid            : "https://orcid.org/0000-0002-0095-0626"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "orbitingflea"
+  steam            : # "orbitingflea"
   tumblr           :
   twitter          : # "replacethistwitterhandle"
   vine             :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  dblp : "https://dblp.org/pid/331/5499.html"
 
 
 # Reading Files
