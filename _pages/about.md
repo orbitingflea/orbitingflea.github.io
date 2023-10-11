@@ -27,7 +27,7 @@ I mainly work on (succinct) data structures and matrix multiplication. I also ha
   Joint work with Tianxiao Li, Jingxun Liang, Huacheng Yu  
   In FOCS 2023
 - **[Faster Matrix Multiplication via Asymmetric Hashing](https://arxiv.org/abs/2210.10173)**  
-  Joint work with Ran Duan, Hongxun Wu  
+  Joint work with Ran Duan and Hongxun Wu  
   In FOCS 2023
 
 ## Misc
