@@ -15,17 +15,20 @@ I mainly work on (succinct) data structures and matrix multiplication. I also ha
 ## Selected Publications
 
 - **[New Bounds for Matrix Multiplication: from Alpha to Omega](https://arxiv.org/abs/2307.07970)**  
-  Virginia Vassilevska Williams, Yinzhan Xu, Zixuan Xu, Renfei Zhou  
-  Submitted to SODA 2024
+  Joint work with Virginia Vassilevska Williams, Yinzhan Xu, Zixuan Xu  
+  In SODA 2024
+- **Dynamic Dictionary with Subconstant Wasted Bits per Key**  
+  Joint work with Tianxiao Li, Jingxun Liang, Huacheng Yu  
+  In SODA 2024
 - **[Dynamic "Succincter"](https://arxiv.org/abs/2309.12950)**  
-  Tianxiao Li, Jingxun Liang, Huacheng Yu, Renfei Zhou  
-  To appear in FOCS 2023
+  Joint work with Tianxiao Li, Jingxun Liang, Huacheng Yu  
+  In FOCS 2023
 - [**Tight Cell-Probe Lower Bounds for Dynamic Succinct Dictionaries**](https://arxiv.org/abs/2306.02253)  
-  Tianxiao Li, Jingxun Liang, Huacheng Yu, Renfei Zhou  
-  To appear in FOCS 2023
+  Joint work with Tianxiao Li, Jingxun Liang, Huacheng Yu  
+  In FOCS 2023
 - **[Faster Matrix Multiplication via Asymmetric Hashing](https://arxiv.org/abs/2210.10173)**  
-  Ran Duan, Hongxun Wu, Renfei Zhou  
-  To appear in FOCS 2023
+  Joint work with Ran Duan, Hongxun Wu  
+  In FOCS 2023
 
 ## Misc
 
