@@ -13,7 +13,7 @@ published: true
   Joint work with Tianxiao Li, Jingxun Liang, Huacheng Yu  
   In SODA 2024
 - **Listing 6-Cycles**  
-  Joint work with Ce Jin and Virginia Vassilevska Williams
+  Joint work with Ce Jin and Virginia Vassilevska Williams  
   In SOSA 2024
 - **[Dynamic "Succincter"](https://arxiv.org/abs/2309.12950)**  
   Joint work with Tianxiao Li, Jingxun Liang, Huacheng Yu  
