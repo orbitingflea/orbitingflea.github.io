@@ -12,7 +12,7 @@ published: true
 - **Dynamic Dictionary with Subconstant Wasted Bits per Key**  
   Joint work with Tianxiao Li, Jingxun Liang, Huacheng Yu  
   In SODA 2024
-- **Listing 6-Cycles**  
+- **[Listing 6-Cycles](https://arxiv.org/abs/2310.14575)**  
   Joint work with Ce Jin and Virginia Vassilevska Williams  
   In SOSA 2024
 - **[Dynamic "Succincter"](https://arxiv.org/abs/2309.12950)**  
