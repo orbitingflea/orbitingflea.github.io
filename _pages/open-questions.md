@@ -19,9 +19,9 @@ A dictionary must use at least $\log \binom{U}{n}$ bits of space because this is
 
 What we know about this problem:
 
-- The work *[On the Optimal Time/Space Tradeoff for Hash Tables](https://arxiv.org/abs/2111.00602)* [Bender, Farach-Colton, Kuszmaul, Kuszmaul, Liu STOC 2022] gives the best upper bound when $R \ge n$: one can achieve $O(k)$ time per operation with $R = O(n \log^{(k)} n)$ bits of redundancy.
-- The work *[Tight Cell-Probe Lower Bounds for Dynamic Succinct Dictionaries](https://arxiv.org/abs/2306.02253)* [Li, Liang, Yu, Zhou FOCS 2023] shows the above upper bound is optimal for $R \ge n$. For the range $1 \le R < n$, a lower bound of $\Omega(\log (n/R) + \log^* n)$ time per operation is given.
-- [Unpublished results] shows that for $n / \log^{100} n \le R \le n$, we can actually give algorithms that match the proven lower bound $\Omega(\log (n/R) + \log^* n)$.
+- [\[Bender et al., STOC 2022\]](https://arxiv.org/abs/2111.00602) gives the best upper bound when $R \ge n$: one can achieve $O(k)$ time per operation with $R = O(n \log^{(k)} n)$ bits of redundancy.
+- [\[Li et al., FOCS 2023\]](https://arxiv.org/abs/2306.02253) shows the above upper bound is optimal for $R \ge n$. For the range $1 \le R < n$, a lower bound of $\Omega(\log (n/R) + \log^* n)$ time per operation is given.
+- [\[Li et al., SODA 2024\]](https://arxiv.org/abs/2310.20536) shows that for $n / \log^{100} n \le R \le n$, we can actually give algorithms that match the proven lower bound $\Omega(\log (n/R) + \log^* n)$.
 
 What we do not know:
 
