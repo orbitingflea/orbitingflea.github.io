@@ -10,7 +10,7 @@ published: true
 
 I am a third-year undergraduate student studying theoretical computer science (TCS) in Yao Class, Tsinghua University.
 
-I mainly work on (succinct) data structures and matrix multiplication. I also have a broad interest in other fields of TCS, such as streaming algorithms, game theory, and online algorithms, though I did not have a chance to extensively work on them.
+I mainly work on (succinct) data structures and **algebraic** matrix multiplication. I also have a broad interest in other fields of TCS, such as streaming algorithms, game theory, and online algorithms, though I did not have a chance to extensively work on them.
 
 See my [CV](https://orbitingflea.github.io/files/CV.pdf).
 
