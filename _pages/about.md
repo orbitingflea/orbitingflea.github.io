@@ -35,5 +35,5 @@ See my [CV](https://orbitingflea.github.io/files/CV.pdf).
 ## Misc
 
 Chinese name: 周任飞  
-Sports: ping-pong, swimming, cycling (had a trip from Hangzhou to Beijing, 1700km on bike), billiards  
+Sports: ping-pong, billiards, cycling (had a trip from Hangzhou to Beijing, 1700km on bike)  
 Erdős number: 4
