@@ -8,9 +8,9 @@ redirect_from:
 published: true
 ---
 
-I am a fourth-year undergraduate student studying theoretical computer science (TCS) in Yao Class, Tsinghua University. I am applying for Ph.D. this year.
+I am a fourth-year undergraduate student studying theoretical computer science (TCS) in Yao Class, Tsinghua University. I am applying to Ph.D. programs this year.
 
-I mainly work on (succinct) data structures and **algebraic** matrix multiplication. I also have a broad interest in other fields of TCS, such as streaming algorithms, game theory, and online algorithms, though I did not have a chance to extensively work on them.
+I mainly work on (succinct) data structures and algebraic matrix multiplication. I also have broad interests in other fields of TCS, such as streaming algorithms, game theory, and online algorithms.
 
 See my [CV](https://orbitingflea.github.io/files/CV.pdf).
 
@@ -35,5 +35,5 @@ See my [CV](https://orbitingflea.github.io/files/CV.pdf).
 ## Misc
 
 Chinese name: 周任飞  
-Sports: ping-pong, swimming, cycling (had a trip from Hangzhou to Beijing, 1700km on bike), pool balls  
+Sports: ping-pong, swimming, cycling (had a trip from Hangzhou to Beijing, 1700km on bike), billiards  
 Erdős number: 4
