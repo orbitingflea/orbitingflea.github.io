@@ -35,5 +35,6 @@ See my [CV](https://orbitingflea.github.io/files/CV.pdf).
 ## Misc
 
 Chinese name: 周任飞  
+Pronunciation of my name: Renfei [ˈrɛnˌfeɪ], Zhou [ˈʒoʊ]. Sounds like "Ren-fay Joe".  
 Sports: ping-pong, billiards, cycling (had a trip from Hangzhou to Beijing, 1700km on bike)  
 Erdős number: 4
