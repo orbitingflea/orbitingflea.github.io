@@ -12,7 +12,7 @@ I am a fourth-year undergraduate student studying theoretical computer science (
 
 I mainly work on (succinct) data structures and algebraic matrix multiplication. I also have broad interests in other fields of TCS, such as streaming algorithms, game theory, and online algorithms.
 
-See my [CV](https://orbitingflea.github.io/files/CV.pdf).
+See my [CV](https://orbitingflea.github.io/files/CV_Renfei_Zhou.pdf).
 
 ## Selected Publications
 
