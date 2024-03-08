@@ -6,12 +6,13 @@ author_profile: true
 published: true
 ---
 
-- **[Bidder Selection Problem in Position Auctions via Poisson Approximation](https://arxiv.org/abs/2306.10648)**  
+- **[Bidder Selection Problem in Position Auctions: A Fast and Simple Algorithm via Poisson Approximation](https://arxiv.org/abs/2306.10648)**  
   with Nick Gravin and Yixuan Even Xu  
-  Accepted to WWW 2024
+  Accepted to WWW 2024 (Oral)
 - **[New Bounds for Matrix Multiplication: from Alpha to Omega](https://arxiv.org/abs/2307.07970)**  
   with Virginia Vassilevska Williams, Yinzhan Xu, and Zixuan Xu  
   In SODA 2024
+  **Covered in [Quanta Magazine](https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/)**
 - **[Dynamic Dictionary with Subconstant Wasted Bits per Key](https://arxiv.org/abs/2310.20536)**  
   with Tianxiao Li, Jingxun Liang, Huacheng Yu  
   In SODA 2024
@@ -24,6 +25,7 @@ published: true
 - **[Faster Matrix Multiplication via Asymmetric Hashing](https://arxiv.org/abs/2210.10173)**  
   with Ran Duan and Hongxun Wu  
   In FOCS 2023
+  **Covered in [Quanta Magazine](https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/)**
 - [**Tight Cell-Probe Lower Bounds for Dynamic Succinct Dictionaries**](https://arxiv.org/abs/2306.02253)  
   with Tianxiao Li, Jingxun Liang, and Huacheng Yu  
   In FOCS 2023  

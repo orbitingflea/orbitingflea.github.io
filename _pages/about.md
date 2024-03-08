@@ -17,6 +17,7 @@ I mainly work on (succinct) data structures and fast matrix multiplication. I al
 - **[New Bounds for Matrix Multiplication: from Alpha to Omega](https://arxiv.org/abs/2307.07970)**  
   with Virginia Vassilevska Williams, Yinzhan Xu, and Zixuan Xu  
   In SODA 2024
+  **Covered in [Quanta Magazine](https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/)**
 - **[Dynamic Dictionary with Subconstant Wasted Bits per Key](https://arxiv.org/abs/2310.20536)**  
   with Tianxiao Li, Jingxun Liang, and Huacheng Yu  
   In SODA 2024
@@ -30,6 +31,7 @@ I mainly work on (succinct) data structures and fast matrix multiplication. I al
 - **[Faster Matrix Multiplication via Asymmetric Hashing](https://arxiv.org/abs/2210.10173)**  
   with Ran Duan and Hongxun Wu  
   In FOCS 2023
+  **Covered in [Quanta Magazine](https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/)**
 
 ## Misc
 
