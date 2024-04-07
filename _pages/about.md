@@ -8,7 +8,7 @@ redirect_from:
 published: true
 ---
 
-I am a fourth-year undergraduate student studying theoretical computer science (TCS) in Yao Class, Tsinghua University. I am applying to Ph.D. programs this year.
+I am a fourth-year undergraduate student studying theoretical computer science (TCS) in Yao Class, Tsinghua University. I am joining CMU as a PhD student in Fall 2024.
 
 I mainly work on (succinct) data structures and fast matrix multiplication. I also have broad interests in other fields of TCS, such as streaming algorithms, game theory, and online algorithms.
 
