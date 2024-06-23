@@ -14,6 +14,9 @@ I mainly work on (succinct) data structures and fast matrix multiplication. I al
 
 ## Selected Publications
 
+- **Tight Bounds for Classical Open Addressing**  
+  with Michael Bender and William Kuszmaul  
+  In FOCS 2024  
 - **[New Bounds for Matrix Multiplication: from Alpha to Omega](https://arxiv.org/abs/2307.07970)**  
   with Virginia Vassilevska Williams, Yinzhan Xu, and Zixuan Xu  
   In SODA 2024  
