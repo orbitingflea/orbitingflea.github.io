@@ -11,7 +11,7 @@ published: true
   In FOCS 2024  
 - **[Bidder Selection Problem in Position Auctions: A Fast and Simple Algorithm via Poisson Approximation](https://arxiv.org/abs/2306.10648)**  
   with Nick Gravin and Yixuan Even Xu  
-  Accepted to WWW 2024 (Oral)
+  In WWW 2024 (Oral)
 - **[New Bounds for Matrix Multiplication: from Alpha to Omega](https://arxiv.org/abs/2307.07970)**  
   with Virginia Vassilevska Williams, Yinzhan Xu, and Zixuan Xu  
   In SODA 2024  
