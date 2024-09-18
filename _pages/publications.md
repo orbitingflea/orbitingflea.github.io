@@ -6,8 +6,8 @@ author_profile: true
 published: true
 ---
 
-- **Tight Bounds for Classical Open Addressing**  
-  with Michael Bender and William Kuszmaul  
+- **[Tight Bounds for Classical Open Addressing](https://arxiv.org/abs/2409.11280)**  
+  with Michael A. Bender and William Kuszmaul  
   In FOCS 2024  
 - **[Bidder Selection Problem in Position Auctions: A Fast and Simple Algorithm via Poisson Approximation](https://arxiv.org/abs/2306.10648)**  
   with Nick Gravin and Yixuan Even Xu  
