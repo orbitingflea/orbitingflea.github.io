@@ -8,9 +8,9 @@ redirect_from:
 published: true
 ---
 
-I am a first-year PhD student studying theoretical computer science (TCS) in CMU. I completed my Bachelor's degree in Yao Class, Tsinghua University.
+I am a first-year PhD student studying theoretical computer science (TCS) in CMU, co-advised by William Kuszmaul and Guy Blelloch. I completed my Bachelor's degree in Yao Class, Tsinghua University.
 
-I mainly work on (succinct) data structures and fast matrix multiplication. I also have broad interests in other fields of TCS, such as streaming algorithms, game theory, and online algorithms.
+I mainly work on classical data structures, especially hash tables and succinct data structures. I also work on fast matrix multiplication.
 
 ## Selected Publications
 
@@ -40,5 +40,5 @@ I mainly work on (succinct) data structures and fast matrix multiplication. I al
 
 Chinese name: 周任飞  
 Pronunciation of my name: Renfei [ˈrɛnˌfeɪ], Zhou [ˈʒoʊ]. Sounds like "Ren-fay Joe".  
-Sports: ping-pong, billiards, cycling (had a trip from Hangzhou to Beijing, 1700km on bike)  
+Sports: ping-pong, cycling (had a trip from Hangzhou to Beijing, 1700km on bike)  
 Erdős number: 4
