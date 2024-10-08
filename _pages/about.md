@@ -14,6 +14,12 @@ I mainly work on classical data structures, especially hash tables and succinct 
 
 ## Selected Publications
 
+- **More Asymmetry Yields Faster Matrix Multiplication**
+  with Josh Alman, Ran Duan, Virginia Vassilevska Williams, Yinzhan Xu, and Zixuan Xu  
+  In SODA 2025
+- **Tight Bounds and Phase Transitions for Incremental and Dynamic Retrieval**  
+  with William Kuszmaul, Aaron Putterman, Tingqiang Xu, and Hangrui Zhou  
+  In SODA 2025
 - **[Tight Bounds for Classical Open Addressing](https://arxiv.org/abs/2409.11280)**  
   with Michael A. Bender and William Kuszmaul  
   In FOCS 2024  
