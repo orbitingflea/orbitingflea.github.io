@@ -14,7 +14,7 @@ I mainly work on classical data structures, especially hash tables and succinct 
 
 ## Selected Publications
 
-- **More Asymmetry Yields Faster Matrix Multiplication**
+- **More Asymmetry Yields Faster Matrix Multiplication**  
   with Josh Alman, Ran Duan, Virginia Vassilevska Williams, Yinzhan Xu, and Zixuan Xu  
   In SODA 2025
 - **Tight Bounds and Phase Transitions for Incremental and Dynamic Retrieval**  
