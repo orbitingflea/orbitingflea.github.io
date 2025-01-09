@@ -621,58 +621,82 @@ table {
     display: block;
 }
 
-/* Adjust font size for medium screens */
-@media screen and (max-width: 1400px) {
-    body {
-        font-size: 14px; /* Smaller font size */
-    }
-
-    table th, table td {
-        font-size: 14px; /* Reduce table font size */
-    }
+/* Default padding for table cells */
+table th, table td {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 6px 13px; /* Default padding */
 }
 
-/* Adjust font size for medium screens */
-@media screen and (max-width: 1200px) {
+/* Adjust font size and padding for medium screens */
+@media screen and (max-width: 1400px) {
     body {
         font-size: 12px; /* Smaller font size */
     }
 
     table th, table td {
         font-size: 12px; /* Reduce table font size */
+        padding: 4px 8px; /* Adjust padding */
     }
 }
 
-/* Adjust font size for medium screens */
-@media screen and (max-width: 1000px) {
+/* Adjust font size and padding for medium screens */
+@media screen and (max-width: 1200px) {
     body {
         font-size: 10px; /* Smaller font size */
     }
 
     table th, table td {
         font-size: 10px; /* Reduce table font size */
+        padding: 3px 6px; /* Adjust padding */
     }
 }
 
-/* Adjust font size for medium screens */
-@media screen and (max-width: 800px) {
+/* Adjust font size and padding for medium screens */
+@media screen and (max-width: 1000px) {
     body {
         font-size: 8px; /* Smaller font size */
     }
 
     table th, table td {
         font-size: 8px; /* Reduce table font size */
+        padding: 2px 4px; /* Adjust padding */
     }
 }
 
-/* Adjust font size for very small screens */
-@media screen and (max-width: 600px) {
+/* Adjust font size and padding for medium screens */
+@media screen and (max-width: 800px) {
     body {
-        font-size: 6px; /* Even smaller font size */
+        font-size: 6px; /* Smaller font size */
     }
 
     table th, table td {
-        font-size: 6px; /* Ensure readability */
+        font-size: 6px; /* Reduce table font size */
+        padding: 1px 3px; /* Adjust padding */
+    }
+}
+
+/* Adjust font size and padding for very small screens */
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 4px; /* Even smaller font size */
+    }
+
+    table th, table td {
+        font-size: 4px; /* Ensure readability */
+        padding: 1px 2px; /* Adjust padding */
+    }
+}
+
+/* Adjust font size and padding for very small screens */
+@media screen and (max-width: 400px) {
+    body {
+        font-size: 3px; /* Even smaller font size */
+    }
+
+    table th, table td {
+        font-size: 3px; /* Ensure readability */
+        padding: 0.5px 1px; /* Adjust padding */
     }
 }
 
