@@ -12,18 +12,6 @@ I am a first-year PhD student studying theoretical computer science (TCS) in CMU
 
 I mainly work on classical data structures, especially hash tables and succinct data structures. I also work on fast matrix multiplication.
 
-## SODA 2025 Schedule
-
-Here is the schedule of SODA 2025 where concurrent sessions appear in parallel.
-
-HTML: [[Day1]](https://orbitingflea.github.io/files/soda25_day_1.html)  [[Day2]](https://orbitingflea.github.io/files/soda25_day_2.html)  [[Day3]](https://orbitingflea.github.io/files/soda25_day_3.html)  [[Day4]](https://orbitingflea.github.io/files/soda25_day_4.html)
-
-PDF: [[Day1]](https://orbitingflea.github.io/files/soda25_day_1.pdf)  [[Day2]](https://orbitingflea.github.io/files/soda25_day_2.pdf)  [[Day3]](https://orbitingflea.github.io/files/soda25_day_3.pdf)  [[Day4]](https://orbitingflea.github.io/files/soda25_day_4.pdf)
-
-Official schedule: [[Online Program]](https://meetings.siam.org/program.cfm?CONFCODE=SODA25)  [[Speaker Index]](https://meetings.siam.org/speakdex.cfm?CONFCODE=SODA25)  [[Special Events]](https://www.siam.org/conferences-events/siam-conferences/soda25/program/special-events/)
-
-(Powered by DeepSeek V3)
-
 ## Selected Publications
 
 - **[More Asymmetry Yields Faster Matrix Multiplication](https://arxiv.org/abs/2404.16349)**  
