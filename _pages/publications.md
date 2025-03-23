@@ -6,6 +6,12 @@ author_profile: true
 published: true
 ---
 
+- **[Optimal Non-Oblivious Open Addressing](https://arxiv.org/abs/2503.13628)**  
+  with Michael A. Bender and William Kuszmaul  
+  In STOC 2025
+- **[Optimal Static Dictionary with Worst-Case Constant Query Time](https://arxiv.org/abs/2412.10655)**  
+  with Yang Hu, Jingxun Liang, Huacheng Yu, and Junkai Zhang  
+  In STOC 2025
 - **[More Asymmetry Yields Faster Matrix Multiplication](https://arxiv.org/abs/2404.16349)**  
   with Josh Alman, Ran Duan, Virginia Vassilevska Williams, Yinzhan Xu, and Zixuan Xu  
   In SODA 2025
