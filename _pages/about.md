@@ -53,4 +53,4 @@ I mainly work on classical data structures, especially hash tables and succinct 
 Chinese name: 周任飞  
 Pronunciation of my name: Renfei [ˈrɛnˌfeɪ], Zhou [ˈʒoʊ]. Sounds like "Ren-fay Joe".  
 Sports: ping-pong, cycling (had a trip from Hangzhou to Beijing, 1700km on bike)  
-Erdős number: 4
+Erdős number: 3
