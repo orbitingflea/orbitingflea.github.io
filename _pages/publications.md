@@ -6,6 +6,15 @@ author_profile: true
 published: true
 ---
 
+- **[Succinct Dynamic Rank/Select: Bypassing the Tree-Structure Bottleneck](https://arxiv.org/abs/2510.19175)**  
+  with William Kuszmaul and Jingxun Liang  
+  In SODA 2026
+- **[Fingerprint Filters are Optimal](https://arxiv.org/abs/2510.18129)**  
+  with William Kuszmaul and Jingxun Liang  
+  In FOCS 2025
+- **[Static Retrieval Revisited: To Optimality and Beyond](https://arxiv.org/abs/2510.18237)**  
+  with Yang Hu, William Kuszmaul, Jingxun Liang, Huacheng Yu, and Junkai Zhang  
+  In FOCS 2025
 - **[Optimal Non-Oblivious Open Addressing](https://arxiv.org/abs/2503.13628)**  
   with Michael A. Bender and William Kuszmaul  
   In STOC 2025

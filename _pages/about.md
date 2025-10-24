@@ -8,12 +8,21 @@ redirect_from:
 published: true
 ---
 
-I am a first-year PhD student studying theoretical computer science (TCS) in CMU, co-advised by [William Kuszmaul](https://sites.google.com/site/williamkuszmaul) and [Guy Blelloch](https://www.cs.cmu.edu/~guyb/). I completed my Bachelor's degree in Yao Class, Tsinghua University.
+I am a first-year PhD student studying theoretical computer science (TCS) in CMU, co-advised by [William Kuszmaul](https://sites.google.com/site/williamkuszmaul) and [Guy E. Blelloch](https://www.cs.cmu.edu/~guyb/). I completed my Bachelor's degree in Yao Class, Tsinghua University.
 
 I mainly work on classical data structures, especially hash tables and succinct data structures. I also work on fast matrix multiplication.
 
 ## Selected Publications
 
+- **[Succinct Dynamic Rank/Select: Bypassing the Tree-Structure Bottleneck](https://arxiv.org/abs/2510.19175)**  
+  with William Kuszmaul and Jingxun Liang  
+  In SODA 2026
+- **[Fingerprint Filters are Optimal](https://arxiv.org/abs/2510.18129)**  
+  with William Kuszmaul and Jingxun Liang  
+  In FOCS 2025
+- **[Static Retrieval Revisited: To Optimality and Beyond](https://arxiv.org/abs/2510.18237)**  
+  with Yang Hu, William Kuszmaul, Jingxun Liang, Huacheng Yu, and Junkai Zhang  
+  In FOCS 2025
 - **[Optimal Non-Oblivious Open Addressing](https://arxiv.org/abs/2503.13628)**  
   with Michael A. Bender and William Kuszmaul  
   In STOC 2025
