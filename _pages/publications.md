@@ -15,6 +15,9 @@ published: true
 - **[Static Retrieval Revisited: To Optimality and Beyond](https://arxiv.org/abs/2510.18237)**  
   with Yang Hu, William Kuszmaul, Jingxun Liang, Huacheng Yu, and Junkai Zhang  
   In FOCS 2025
+- **[Optimal Static Fully Indexable Dictionaries](https://arxiv.org/abs/2504.19350)**  
+  with Jingxun Liang  
+  In ICALP 2025
 - **[Optimal Non-Oblivious Open Addressing](https://arxiv.org/abs/2503.13628)**  
   with Michael A. Bender and William Kuszmaul  
   In STOC 2025
