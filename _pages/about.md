@@ -8,7 +8,7 @@ redirect_from:
 published: true
 ---
 
-I am a first-year PhD student studying theoretical computer science (TCS) in CMU, co-advised by [William Kuszmaul](https://sites.google.com/site/williamkuszmaul) and [Guy E. Blelloch](https://www.cs.cmu.edu/~guyb/). I completed my Bachelor's degree in Yao Class, Tsinghua University.
+I am a second-year PhD student studying theoretical computer science (TCS) in CMU, co-advised by [William Kuszmaul](https://sites.google.com/site/williamkuszmaul) and [Guy E. Blelloch](https://www.cs.cmu.edu/~guyb/). I completed my Bachelor's degree in Yao Class, Tsinghua University.
 
 I mainly work on classical data structures, especially hash tables and succinct data structures. I also work on fast matrix multiplication.
 
