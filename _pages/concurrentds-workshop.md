@@ -12,4 +12,7 @@ Participation is by invitation only. If you are invited, please register an acco
 
 ## Schedule
 
-TBD
+Working sessions during 10:00--12:00 and 2:30--5:30 from Monday to Friday.
+
+Monday's morning session starts with a **tutorial session** to recap the project's motivation and research plan.
+
