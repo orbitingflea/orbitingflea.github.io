@@ -1,18 +1,24 @@
 ---
 layout: archive
-title: ConcurrentDS Workshop
+title: Concurrent Data Structures Workshop
 permalink: /concurrentds-workshop/
 author_profile: false
 published: true
+gallery:
+  - url: concurrent_ds_workshop/group_photo.jpg
+    image_path: concurrent_ds_workshop/group_photo.jpg
+    alt: "Group photo"
+  - url: concurrent_ds_workshop/discussion_photo.jpg
+    image_path: concurrent_ds_workshop/discussion_photo.jpg
+    alt: "Discussion"
 ---
 
-We are organizing a **collaborative workshop on concurrent data structures** during **Jan 26-30, 2026**, at **NYU Tandon**. During the workshop, we will work together on a rich collection of open questions on the concurrent data structure project; there will be no talks.
+**Date**: Jan 26-30, 2026
 
-Participation is by invitation only. If you are invited, please register an account at [MIT coauthor server](https://coauthor.csail.mit.edu/) and send me your username. We will use this platform to share open questions and progress.
+**Location**: NYU Tandon
 
-## Schedule
+We organized a collaborative workshop on concurrent data structures. Unlike traditional workshops, this event featured no talks; instead, participants worked together in intense sessions to tackle a collection of research problems.
 
-Working sessions during 10:00--12:00 and 2:30--5:30 from Monday to Friday.
+The workshop kicked off with a tutorial session recapping the project's motivation and research plan, followed by daily working sessions from Monday to Friday.
 
-Monday's morning session starts with a **tutorial session** to recap the project's motivation and research plan.
-
+{% include gallery %}
