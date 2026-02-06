@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Concurrent Data Structures Workshop
-permalink: /concurrentds-workshop/
+permalink: /events/concurrentds-workshop/
 author_profile: false
 published: true
 gallery:

@@ -4,8 +4,8 @@ main:
     url: /publications/
   - title: "CV"
     url: /files/CV_Renfei_Zhou.pdf
-  - title: "ConcurrentDS Workshop"
-    url: /concurrentds-workshop/
+  - title: "Events"
+    url: /events/
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
