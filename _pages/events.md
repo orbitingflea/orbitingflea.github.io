@@ -2,7 +2,7 @@
 layout: archive
 title: Events
 permalink: /events/
-author_profile: false
+author_profile: true
 published: true
 ---
 
