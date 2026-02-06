@@ -16,8 +16,7 @@ gallery:
     alt: "Dinner"
 ---
 
-**Date**: Jan 26-30, 2026
-
+**Date**: Jan 26--30, 2026  
 **Location**: NYU Tandon
 
 We organized a collaborative workshop on concurrent data structures. Unlike traditional workshops, this event featured no talks; instead, participants worked together in intense sessions to tackle a collection of research problems.

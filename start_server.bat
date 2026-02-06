@@ -26,12 +26,14 @@ if errorlevel 1 (
 )
 
 echo Starting local Jekyll server...
-echo URL: http://127.0.0.1:4000
+set "HOST=localhost"
+set "PORT=4000"
+echo URL: http://%HOST%:%PORT%
 echo Press Ctrl+C to stop.
 echo.
 
-start "" "http://127.0.0.1:4000"
-bundle exec jekyll serve -l --host 127.0.0.1 --port 4000 --config "_config.yml,_config.dev.yml"
+start "" "http://%HOST%:%PORT%"
+bundle exec jekyll serve -l --host %HOST% --port %PORT% --config "_config.yml,_config.dev.yml"
 set "EXIT_CODE=%ERRORLEVEL%"
 
 popd
