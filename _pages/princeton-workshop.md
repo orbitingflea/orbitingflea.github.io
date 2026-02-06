@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Princeton Workshop on Data Structures
-permalink: /events/princeton-workshop/
+permalink: /princeton-workshop/
 author_profile: false
 published: true
 gallery:

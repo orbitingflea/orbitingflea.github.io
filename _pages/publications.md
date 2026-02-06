@@ -9,7 +9,7 @@ published: true
 - **[Succinct Dynamic Rank/Select: Bypassing the Tree-Structure Bottleneck](https://arxiv.org/abs/2510.19175)**  
   with William Kuszmaul and Jingxun Liang  
   In SODA 2026
-- **[Fingerprint Filters are Optimal](https://arxiv.org/abs/2510.18129)**  
+- **[Fingerprint Filters Are Optimal](https://arxiv.org/abs/2510.18129)**  
   with William Kuszmaul and Jingxun Liang  
   In FOCS 2025
 - **[Static Retrieval Revisited: To Optimality and Beyond](https://arxiv.org/abs/2510.18237)**  
